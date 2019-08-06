@@ -1,0 +1,1 @@
+from .glm_posterior import LinearRegressionPosterior
